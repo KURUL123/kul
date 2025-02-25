@@ -1,0 +1,2 @@
+# kul
+NY DADADA CAPSLOCK SHIT 
