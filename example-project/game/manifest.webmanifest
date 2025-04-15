@@ -1,9 +1,9 @@
 {
-  "name": "Trashy Rub",
-  "short_name": "Trashy Rub",
+  "name": "Jolly Oatmeal",
+  "short_name": "Jolly Oatmeal",
   "id": "com.example.gamename",
   "description": "",
-  "orientation": "landscape",
+  "orientation": "portrait",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "black",
